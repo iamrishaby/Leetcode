@@ -25,6 +25,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamrishaby/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/iamrishaby/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/iamrishaby/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamrishaby/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -41,11 +42,13 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamrishaby/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/iamrishaby/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/iamrishaby/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamrishaby/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/iamrishaby/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/iamrishaby/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Prefix Sum
 |  |
 | ------- |
