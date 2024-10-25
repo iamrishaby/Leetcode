@@ -27,6 +27,7 @@
 | [0242-valid-anagram](https://github.com/iamrishaby/Leetcode/tree/master/0242-valid-anagram) |
 | [1197-parsing-a-boolean-expression](https://github.com/iamrishaby/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/iamrishaby/Leetcode/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamrishaby/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/iamrishaby/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/iamrishaby/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/iamrishaby/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/iamrishaby/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamrishaby/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0219-contains-duplicate-ii](https://github.com/iamrishaby/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamrishaby/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamrishaby/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iamrishaby/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/iamrishaby/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/iamrishaby/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -137,5 +140,6 @@
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/iamrishaby/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamrishaby/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/iamrishaby/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 <!---LeetCode Topics End-->
