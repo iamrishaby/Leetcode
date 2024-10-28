@@ -9,6 +9,7 @@
 | [0219-contains-duplicate-ii](https://github.com/iamrishaby/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/iamrishaby/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/iamrishaby/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamrishaby/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/iamrishaby/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/iamrishaby/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -43,6 +44,7 @@
 | [0217-contains-duplicate](https://github.com/iamrishaby/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/iamrishaby/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/iamrishaby/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamrishaby/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamrishaby/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamrishaby/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -58,6 +60,7 @@
 | [0217-contains-duplicate](https://github.com/iamrishaby/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/iamrishaby/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/iamrishaby/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamrishaby/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/iamrishaby/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2586-longest-square-streak-in-an-array](https://github.com/iamrishaby/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -66,6 +69,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/iamrishaby/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/iamrishaby/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/iamrishaby/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
@@ -124,6 +128,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/iamrishaby/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2586-longest-square-streak-in-an-array](https://github.com/iamrishaby/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Tree
 |  |
