@@ -28,6 +28,7 @@
 | [0013-roman-to-integer](https://github.com/iamrishaby/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/iamrishaby/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/iamrishaby/Leetcode/tree/master/0242-valid-anagram) |
+| [0742-to-lower-case](https://github.com/iamrishaby/Leetcode/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/iamrishaby/Leetcode/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/iamrishaby/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/iamrishaby/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
