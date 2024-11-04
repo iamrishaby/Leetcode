@@ -39,6 +39,7 @@
 | [2235-capitalize-the-title](https://github.com/iamrishaby/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2580-circular-sentence](https://github.com/iamrishaby/Leetcode/tree/master/2580-circular-sentence) |
 | [3195-separate-black-and-white-balls](https://github.com/iamrishaby/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3451-string-compression-iii](https://github.com/iamrishaby/Leetcode/tree/master/3451-string-compression-iii) |
 ## Trie
 |  |
 | ------- |
