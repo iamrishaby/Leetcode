@@ -41,6 +41,7 @@
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/iamrishaby/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2235-capitalize-the-title](https://github.com/iamrishaby/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2580-circular-sentence](https://github.com/iamrishaby/Leetcode/tree/master/2580-circular-sentence) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/iamrishaby/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/iamrishaby/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/iamrishaby/Leetcode/tree/master/3451-string-compression-iii) |
 ## Trie
