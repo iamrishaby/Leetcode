@@ -61,6 +61,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamrishaby/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamrishaby/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/iamrishaby/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1046-max-consecutive-ones-iii](https://github.com/iamrishaby/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1140-distant-barcodes](https://github.com/iamrishaby/Leetcode/tree/master/1140-distant-barcodes) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamrishaby/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamrishaby/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -127,6 +128,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/iamrishaby/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iamrishaby/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1940-maximum-xor-for-each-query](https://github.com/iamrishaby/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/iamrishaby/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -136,6 +138,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamrishaby/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/iamrishaby/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamrishaby/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1046-max-consecutive-ones-iii](https://github.com/iamrishaby/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iamrishaby/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/iamrishaby/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Backtracking
@@ -176,6 +179,7 @@
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamrishaby/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/iamrishaby/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1046-max-consecutive-ones-iii](https://github.com/iamrishaby/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/iamrishaby/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/iamrishaby/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Tree
