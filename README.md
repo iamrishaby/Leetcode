@@ -72,6 +72,7 @@
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamrishaby/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamrishaby/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iamrishaby/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iamrishaby/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/iamrishaby/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/iamrishaby/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iamrishaby/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -114,6 +115,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamrishaby/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/iamrishaby/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/iamrishaby/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iamrishaby/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/iamrishaby/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/iamrishaby/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/iamrishaby/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/iamrishaby/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iamrishaby/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,6 +199,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamrishaby/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/iamrishaby/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1046-max-consecutive-ones-iii](https://github.com/iamrishaby/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iamrishaby/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/iamrishaby/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/iamrishaby/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/iamrishaby/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -251,4 +255,8 @@
 | [1140-distant-barcodes](https://github.com/iamrishaby/Leetcode/tree/master/1140-distant-barcodes) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/iamrishaby/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/iamrishaby/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iamrishaby/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
