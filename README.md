@@ -90,6 +90,7 @@
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamrishaby/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/iamrishaby/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/iamrishaby/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/iamrishaby/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iamrishaby/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iamrishaby/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/iamrishaby/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/iamrishaby/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
 |  |
 | ------- |
