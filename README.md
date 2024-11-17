@@ -66,6 +66,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamrishaby/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamrishaby/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/iamrishaby/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/iamrishaby/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/iamrishaby/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/iamrishaby/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1140-distant-barcodes](https://github.com/iamrishaby/Leetcode/tree/master/1140-distant-barcodes) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamrishaby/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/iamrishaby/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1140-distant-barcodes](https://github.com/iamrishaby/Leetcode/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/iamrishaby/Leetcode/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/iamrishaby/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -143,6 +145,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/iamrishaby/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/iamrishaby/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/iamrishaby/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iamrishaby/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -155,6 +158,7 @@
 | [0219-contains-duplicate-ii](https://github.com/iamrishaby/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/iamrishaby/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamrishaby/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/iamrishaby/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/iamrishaby/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/iamrishaby/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iamrishaby/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -200,6 +204,7 @@
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamrishaby/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/iamrishaby/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/iamrishaby/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/iamrishaby/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iamrishaby/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/iamrishaby/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -261,4 +266,12 @@
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iamrishaby/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/iamrishaby/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/iamrishaby/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
