@@ -74,6 +74,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamrishaby/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iamrishaby/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iamrishaby/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1755-defuse-the-bomb](https://github.com/iamrishaby/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/iamrishaby/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/iamrishaby/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iamrishaby/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -163,6 +164,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/iamrishaby/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iamrishaby/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/iamrishaby/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1755-defuse-the-bomb](https://github.com/iamrishaby/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/iamrishaby/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/iamrishaby/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Backtracking
