@@ -53,6 +53,7 @@
 | [2235-capitalize-the-title](https://github.com/iamrishaby/Leetcode/tree/master/2235-capitalize-the-title) |
 | [2580-circular-sentence](https://github.com/iamrishaby/Leetcode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/iamrishaby/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/iamrishaby/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/iamrishaby/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/iamrishaby/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/iamrishaby/Leetcode/tree/master/3451-string-compression-iii) |
@@ -99,6 +100,7 @@
 | [2616-maximal-score-after-applying-k-operations](https://github.com/iamrishaby/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/iamrishaby/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/iamrishaby/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/iamrishaby/Leetcode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamrishaby/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/iamrishaby/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/iamrishaby/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
