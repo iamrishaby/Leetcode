@@ -89,6 +89,7 @@
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/iamrishaby/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/iamrishaby/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/iamrishaby/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1063-best-sightseeing-pair](https://github.com/iamrishaby/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1140-distant-barcodes](https://github.com/iamrishaby/Leetcode/tree/master/1140-distant-barcodes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/iamrishaby/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamrishaby/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -350,6 +351,7 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/iamrishaby/Leetcode/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/iamrishaby/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamrishaby/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/iamrishaby/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/iamrishaby/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
