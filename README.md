@@ -116,6 +116,7 @@
 | [1140-distant-barcodes](https://github.com/iamrishaby/Leetcode/tree/master/1140-distant-barcodes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/iamrishaby/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamrishaby/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/iamrishaby/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamrishaby/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrishaby/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iamrishaby/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -376,6 +377,7 @@
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/iamrishaby/Leetcode/tree/master/0787-sliding-puzzle) |
+| [1396-count-servers-that-communicate](https://github.com/iamrishaby/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iamrishaby/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/iamrishaby/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/iamrishaby/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -400,6 +402,7 @@
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/iamrishaby/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamrishaby/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1396-count-servers-that-communicate](https://github.com/iamrishaby/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/iamrishaby/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/iamrishaby/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/iamrishaby/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -423,6 +426,7 @@
 | ------- |
 | [0787-sliding-puzzle](https://github.com/iamrishaby/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/iamrishaby/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1396-count-servers-that-communicate](https://github.com/iamrishaby/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/iamrishaby/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iamrishaby/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/iamrishaby/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -446,6 +450,7 @@
 |  |
 | ------- |
 | [1140-distant-barcodes](https://github.com/iamrishaby/Leetcode/tree/master/1140-distant-barcodes) |
+| [1396-count-servers-that-communicate](https://github.com/iamrishaby/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/iamrishaby/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/iamrishaby/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/iamrishaby/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -512,4 +517,8 @@
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/iamrishaby/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/iamrishaby/Leetcode/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
