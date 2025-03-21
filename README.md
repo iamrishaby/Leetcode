@@ -30,6 +30,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/iamrishaby/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/iamrishaby/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/iamrishaby/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/iamrishaby/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/iamrishaby/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/iamrishaby/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/iamrishaby/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -102,6 +103,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/iamrishaby/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/iamrishaby/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/iamrishaby/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/iamrishaby/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/iamrishaby/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/iamrishaby/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2235-capitalize-the-title](https://github.com/iamrishaby/Leetcode/tree/master/2235-capitalize-the-title) |
@@ -187,6 +189,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/iamrishaby/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/iamrishaby/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/iamrishaby/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/iamrishaby/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/iamrishaby/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/iamrishaby/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/iamrishaby/Leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -627,6 +630,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/iamrishaby/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/iamrishaby/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/iamrishaby/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/iamrishaby/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/iamrishaby/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/iamrishaby/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/iamrishaby/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -684,6 +688,7 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/iamrishaby/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/iamrishaby/Leetcode/tree/master/1558-course-schedule-iv) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/iamrishaby/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/iamrishaby/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Design
 |  |
