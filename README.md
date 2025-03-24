@@ -240,6 +240,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/iamrishaby/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/iamrishaby/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/iamrishaby/Leetcode/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/iamrishaby/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iamrishaby/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/iamrishaby/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/iamrishaby/Leetcode/tree/master/3483-alternating-groups-ii) |
@@ -273,6 +274,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iamrishaby/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/iamrishaby/Leetcode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3291-find-if-array-can-be-sorted](https://github.com/iamrishaby/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+| [3430-count-days-without-meetings](https://github.com/iamrishaby/Leetcode/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
 |  |
 | ------- |
