@@ -14,6 +14,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/iamrishaby/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamrishaby/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/iamrishaby/Leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/iamrishaby/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/iamrishaby/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/iamrishaby/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/iamrishaby/Leetcode/tree/master/0952-word-subsets) |
@@ -66,6 +67,7 @@
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/iamrishaby/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/iamrishaby/Leetcode/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/iamrishaby/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/iamrishaby/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iamrishaby/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/iamrishaby/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -166,6 +168,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/iamrishaby/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/iamrishaby/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/iamrishaby/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/iamrishaby/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/iamrishaby/Leetcode/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/iamrishaby/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/iamrishaby/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -343,6 +346,7 @@
 | [0680-valid-palindrome-ii](https://github.com/iamrishaby/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/iamrishaby/Leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/iamrishaby/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/iamrishaby/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1140-distant-barcodes](https://github.com/iamrishaby/Leetcode/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/iamrishaby/Leetcode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/iamrishaby/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
