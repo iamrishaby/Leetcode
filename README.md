@@ -167,6 +167,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/iamrishaby/Leetcode/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/iamrishaby/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/iamrishaby/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/iamrishaby/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
@@ -315,6 +316,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/iamrishaby/Leetcode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/iamrishaby/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/iamrishaby/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
@@ -349,6 +351,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/iamrishaby/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/iamrishaby/Leetcode/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/iamrishaby/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/iamrishaby/Leetcode/tree/master/0443-string-compression) |
