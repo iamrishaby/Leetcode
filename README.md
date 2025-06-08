@@ -175,6 +175,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/iamrishaby/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/iamrishaby/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/iamrishaby/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/iamrishaby/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Array
@@ -686,6 +687,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/iamrishaby/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/iamrishaby/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/iamrishaby/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/iamrishaby/Leetcode/tree/master/0854-making-a-large-island) |
