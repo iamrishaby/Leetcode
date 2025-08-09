@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/iamrishaby/Leetcode/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/iamrishaby/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/iamrishaby/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/iamrishaby/Leetcode/tree/master/0670-maximum-swap) |
@@ -642,6 +643,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/iamrishaby/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamrishaby/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1873-longest-nice-substring](https://github.com/iamrishaby/Leetcode/tree/master/1873-longest-nice-substring) |
@@ -684,6 +686,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/iamrishaby/Leetcode/tree/master/0231-power-of-two) |
 | [1197-parsing-a-boolean-expression](https://github.com/iamrishaby/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/iamrishaby/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/iamrishaby/Leetcode/tree/master/2050-count-good-numbers) |
