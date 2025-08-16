@@ -90,6 +90,7 @@
 | [0231-power-of-two](https://github.com/iamrishaby/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/iamrishaby/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/iamrishaby/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/iamrishaby/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0670-maximum-swap](https://github.com/iamrishaby/Leetcode/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/iamrishaby/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -652,6 +653,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/iamrishaby/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/iamrishaby/Leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamrishaby/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1873-longest-nice-substring](https://github.com/iamrishaby/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1940-maximum-xor-for-each-query](https://github.com/iamrishaby/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -697,6 +699,7 @@
 | ------- |
 | [0231-power-of-two](https://github.com/iamrishaby/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/iamrishaby/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/iamrishaby/Leetcode/tree/master/0342-power-of-four) |
 | [1197-parsing-a-boolean-expression](https://github.com/iamrishaby/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/iamrishaby/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2050-count-good-numbers](https://github.com/iamrishaby/Leetcode/tree/master/2050-count-good-numbers) |
