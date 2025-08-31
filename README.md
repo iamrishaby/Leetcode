@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/iamrishaby/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/iamrishaby/Leetcode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/iamrishaby/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/iamrishaby/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/iamrishaby/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/iamrishaby/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/iamrishaby/Leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/iamrishaby/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/iamrishaby/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/iamrishaby/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/iamrishaby/Leetcode/tree/master/0118-pascals-triangle) |
@@ -656,6 +658,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/iamrishaby/Leetcode/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/iamrishaby/Leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/iamrishaby/Leetcode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/iamrishaby/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -929,6 +932,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/iamrishaby/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/iamrishaby/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/iamrishaby/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0787-sliding-puzzle](https://github.com/iamrishaby/Leetcode/tree/master/0787-sliding-puzzle) |
