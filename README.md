@@ -25,6 +25,7 @@
 | [0940-fruit-into-baskets](https://github.com/iamrishaby/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/iamrishaby/Leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/iamrishaby/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/iamrishaby/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1140-distant-barcodes](https://github.com/iamrishaby/Leetcode/tree/master/1140-distant-barcodes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/iamrishaby/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/iamrishaby/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -159,6 +160,7 @@
 | [0812-rotate-string](https://github.com/iamrishaby/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/iamrishaby/Leetcode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/iamrishaby/Leetcode/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/iamrishaby/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/iamrishaby/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/iamrishaby/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/iamrishaby/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -270,6 +272,7 @@
 | [0945-snakes-and-ladders](https://github.com/iamrishaby/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/iamrishaby/Leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/iamrishaby/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1006-vowel-spellchecker](https://github.com/iamrishaby/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/iamrishaby/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/iamrishaby/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/iamrishaby/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
