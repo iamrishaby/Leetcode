@@ -90,6 +90,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/iamrishaby/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/iamrishaby/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/iamrishaby/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3827-implement-router](https://github.com/iamrishaby/Leetcode/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/iamrishaby/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -458,6 +459,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/iamrishaby/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/iamrishaby/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/iamrishaby/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/iamrishaby/Leetcode/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -845,6 +847,7 @@
 | [3427-special-array-ii](https://github.com/iamrishaby/Leetcode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/iamrishaby/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/iamrishaby/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/iamrishaby/Leetcode/tree/master/3827-implement-router) |
 ## Tree
 |  |
 | ------- |
@@ -1059,6 +1062,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/iamrishaby/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/iamrishaby/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/iamrishaby/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3827-implement-router](https://github.com/iamrishaby/Leetcode/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1109,6 +1113,7 @@
 | [2868-continuous-subarrays](https://github.com/iamrishaby/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3678-design-task-manager](https://github.com/iamrishaby/Leetcode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/iamrishaby/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3827-implement-router](https://github.com/iamrishaby/Leetcode/tree/master/3827-implement-router) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1165,6 +1170,7 @@
 | [2429-design-a-food-rating-system](https://github.com/iamrishaby/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/iamrishaby/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/iamrishaby/Leetcode/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/iamrishaby/Leetcode/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
