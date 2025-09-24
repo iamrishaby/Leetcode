@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/iamrishaby/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/iamrishaby/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/iamrishaby/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/iamrishaby/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/iamrishaby/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/iamrishaby/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/iamrishaby/Leetcode/tree/master/0242-valid-anagram) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/iamrishaby/Leetcode/tree/master/0013-roman-to-integer) |
+| [0166-fraction-to-recurring-decimal](https://github.com/iamrishaby/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/iamrishaby/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/iamrishaby/Leetcode/tree/master/0326-power-of-three) |
@@ -159,6 +161,7 @@
 | [0038-count-and-say](https://github.com/iamrishaby/Leetcode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/iamrishaby/Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/iamrishaby/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/iamrishaby/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/iamrishaby/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/iamrishaby/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/iamrishaby/Leetcode/tree/master/0443-string-compression) |
