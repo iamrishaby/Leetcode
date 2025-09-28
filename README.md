@@ -112,6 +112,7 @@
 | [0830-largest-triangle-area](https://github.com/iamrishaby/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/iamrishaby/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/iamrishaby/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/iamrishaby/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iamrishaby/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/iamrishaby/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/iamrishaby/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -290,6 +291,7 @@
 | [0952-word-subsets](https://github.com/iamrishaby/Leetcode/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/iamrishaby/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/iamrishaby/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/iamrishaby/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/iamrishaby/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/iamrishaby/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/iamrishaby/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -486,6 +488,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamrishaby/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/iamrishaby/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0900-reordered-power-of-2](https://github.com/iamrishaby/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/iamrishaby/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1140-distant-barcodes](https://github.com/iamrishaby/Leetcode/tree/master/1140-distant-barcodes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/iamrishaby/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/iamrishaby/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -565,6 +568,7 @@
 | [0768-partition-labels](https://github.com/iamrishaby/Leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/iamrishaby/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0797-rabbits-in-forest](https://github.com/iamrishaby/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/iamrishaby/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/iamrishaby/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1140-distant-barcodes](https://github.com/iamrishaby/Leetcode/tree/master/1140-distant-barcodes) |
 | [1304-longest-happy-string](https://github.com/iamrishaby/Leetcode/tree/master/1304-longest-happy-string) |
