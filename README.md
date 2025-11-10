@@ -102,6 +102,7 @@
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/iamrishaby/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/iamrishaby/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3827-implement-router](https://github.com/iamrishaby/Leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/iamrishaby/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/iamrishaby/Leetcode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/iamrishaby/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -527,6 +528,7 @@
 | [3790-fruits-into-baskets-ii](https://github.com/iamrishaby/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/iamrishaby/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/iamrishaby/Leetcode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/iamrishaby/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/iamrishaby/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/iamrishaby/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Sorting
@@ -676,6 +678,7 @@
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/iamrishaby/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/iamrishaby/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/iamrishaby/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/iamrishaby/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -932,6 +935,7 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/iamrishaby/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/iamrishaby/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/iamrishaby/Leetcode/tree/master/3447-clear-digits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/iamrishaby/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -1210,6 +1214,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/iamrishaby/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/iamrishaby/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/iamrishaby/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/iamrishaby/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Queue
 |  |
 | ------- |
