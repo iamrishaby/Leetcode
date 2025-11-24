@@ -336,6 +336,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/iamrishaby/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/iamrishaby/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/iamrishaby/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/iamrishaby/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/iamrishaby/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/iamrishaby/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/iamrishaby/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -853,6 +854,7 @@
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/iamrishaby/Leetcode/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamrishaby/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/iamrishaby/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/iamrishaby/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1873-longest-nice-substring](https://github.com/iamrishaby/Leetcode/tree/master/1873-longest-nice-substring) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/iamrishaby/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
