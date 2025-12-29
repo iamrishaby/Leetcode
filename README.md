@@ -18,6 +18,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/iamrishaby/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/iamrishaby/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/iamrishaby/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0756-pyramid-transition-matrix](https://github.com/iamrishaby/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/iamrishaby/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/iamrishaby/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0900-reordered-power-of-2](https://github.com/iamrishaby/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -214,6 +215,7 @@
 | [0474-ones-and-zeroes](https://github.com/iamrishaby/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/iamrishaby/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/iamrishaby/Leetcode/tree/master/0742-to-lower-case) |
+| [0756-pyramid-transition-matrix](https://github.com/iamrishaby/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/iamrishaby/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/iamrishaby/Leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/iamrishaby/Leetcode/tree/master/0868-push-dominoes) |
@@ -898,6 +900,7 @@
 | [0037-sudoku-solver](https://github.com/iamrishaby/Leetcode/tree/master/0037-sudoku-solver) |
 | [0494-target-sum](https://github.com/iamrishaby/Leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/iamrishaby/Leetcode/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/iamrishaby/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/iamrishaby/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/iamrishaby/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/iamrishaby/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -914,6 +917,7 @@
 | [0231-power-of-two](https://github.com/iamrishaby/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/iamrishaby/Leetcode/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/iamrishaby/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/iamrishaby/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/iamrishaby/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/iamrishaby/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
