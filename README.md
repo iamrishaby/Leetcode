@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/iamrishaby/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/iamrishaby/Leetcode/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/iamrishaby/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/iamrishaby/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/iamrishaby/Leetcode/tree/master/0268-missing-number) |
@@ -322,6 +323,7 @@
 | [0035-search-insert-position](https://github.com/iamrishaby/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/iamrishaby/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/iamrishaby/Leetcode/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/iamrishaby/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/iamrishaby/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/iamrishaby/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/iamrishaby/Leetcode/tree/master/0118-pascals-triangle) |
